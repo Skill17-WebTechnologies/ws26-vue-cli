@@ -7,6 +7,6 @@ scaffolder), served with vue-cli-service.
 docker compose up --build
 ```
 
-Open **http://localhost:8080**. Pinned: Node 24.1.0 / npm 11.5.0, scaffolder @vue/cli 5.0.9.
+Open **http://localhost**. Pinned: Node 24.1.0 / npm 11.5.0, scaffolder @vue/cli 5.0.9.
 
 First start compiles the app (webpack), so give it a few seconds.
